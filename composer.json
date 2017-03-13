@@ -1,0 +1,29 @@
+{
+  "name": "vvval/spiral-array-paginable",
+  "description": "Vault component dedicated to store internal system statistics.",
+  "authors": [
+    {
+      "name": "Valentin V / vvval",
+      "email": "vintsukevich@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "spiral/common": "^0.9.3",
+    "spiral/pagination": "^1.0"
+  },
+  "require-dev": {
+    "spiral/framework": "^0.9.10",
+    "phpunit/phpunit": "~6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Vvval\\Spiral\\": "source/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Vvval\\Spiral\\Tests\\": "tests/"
+    }
+  }
+}
