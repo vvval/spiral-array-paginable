@@ -1,5 +1,6 @@
 {
   "name": "vvval/spiral-array-paginable",
+  "license" : "MIT",
   "description": "Vault component dedicated to store internal system statistics.",
   "authors": [
     {
@@ -9,11 +10,11 @@
   ],
   "require": {
     "php": ">=7.0",
-    "spiral/common": "^0.9.3",
+    "spiral/common": "^1.0",
     "spiral/pagination": "^1.0"
   },
   "require-dev": {
-    "spiral/framework": "^0.9.10",
+    "spiral/framework": "^1.0",
     "phpunit/phpunit": "~6.0"
   },
   "autoload": {
