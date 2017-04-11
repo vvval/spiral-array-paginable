@@ -1,7 +1,7 @@
 {
   "name": "vvval/spiral-array-paginable",
   "license" : "MIT",
-  "description": "Vault component dedicated to store internal system statistics.",
+  "description": "Wrapper to allow paginate arrays.",
   "authors": [
     {
       "name": "Valentin V / vvval",
